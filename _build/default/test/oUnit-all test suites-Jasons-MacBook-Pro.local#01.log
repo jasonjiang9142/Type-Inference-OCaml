@@ -1,0 +1,27 @@
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:0:add ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:0:add ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:0:add ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:2:mul ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:2:mul ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:2:mul ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:4:mod ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:4:mod ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:4:mod ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:6:pow floats.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:6:pow floats is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:6:pow floats.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:8:or false.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:8:or false is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:8:or false.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:10:neq ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:10:neq ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:10:neq ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:12:option some.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:12:option some is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:12:option some.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:14:option match some.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:14:option match some is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:14:option match some.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Start test all test suites:0:eval_expr test suite:16:simple recursion.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: Test all test suites:0:eval_expr test suite:16:simple recursion is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#01 I: End test all test suites:0:eval_expr test suite:16:simple recursion.

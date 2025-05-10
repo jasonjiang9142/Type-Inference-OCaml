@@ -1,0 +1,76 @@
+type token =
+    WITH
+  | VAR of string
+  | TVAR of string
+  | TUNIT
+  | TRUE
+  | TOPTION
+  | TLIST
+  | TINT
+  | THEN
+  | TFLOAT
+  | TBOOL
+  | SUBF
+  | SUB
+  | STAR
+  | SOME
+  | SEMICOLON
+  | RPAREN
+  | REC
+  | RBRACKET
+  | POW
+  | OR
+  | NONE
+  | NEQ
+  | MULF
+  | MOD
+  | MATCH
+  | LTE
+  | LT
+  | LPAREN
+  | LET
+  | LBRACKET
+  | INT of int
+  | IN
+  | IF
+  | GTE
+  | GT
+  | FUN
+  | FLOAT of float
+  | FALSE
+  | EQ
+  | EOF
+  | ELSE
+  | DIVF
+  | DIV
+  | CONS
+  | COMMA
+  | COLON
+  | ASSERT
+  | ARROW
+  | AND
+  | ALT
+  | ADDF
+  | ADD
+val mk_func :
+  Utils.ty option ->
+  (string * Utils.ty option) list -> Utils.expr -> Utils.expr
+val mk_list : Utils.expr -> Utils.expr list -> Utils.expr
+val menhir_begin_marker : int
+val xv_ty : Utils.ty
+val xv_toplet : Utils.toplet
+val xv_prog : Utils.prog
+val xv_option_annot_ : Utils.ty option
+val xv_option_REC_ : unit option
+val xv_nonempty_list_expr3_ : Utils.expr list
+val xv_list_item : Utils.expr
+val xv_list_toplet_ : Utils.prog
+val xv_list_list_item_ : Utils.expr list
+val xv_list_arg_ : (string * Utils.ty option) list
+val xv_expr3 : Utils.expr
+val xv_expr2 : Utils.expr
+val xv_expr : Utils.expr
+val xv_bop : Utils.bop
+val xv_arg : string * Utils.ty option
+val xv_annot : Utils.ty
+val menhir_end_marker : int

@@ -1,0 +1,24 @@
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:1:sub ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:1:sub ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:1:sub ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:3:div ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:3:div ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:3:div ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:5:add floats.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:5:add floats is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:5:add floats.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:7:and true.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:7:and true is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:7:and true.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:9:eq ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:9:eq ints is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:9:eq ints.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:11:list cons.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:11:list cons is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:11:list cons.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:13:option match none.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:13:option match none is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:13:option match none.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Start test all test suites:0:eval_expr test suite:15:compare function fails.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: Test all test suites:0:eval_expr test suite:15:compare function fails is successful.
+2025-05-10T21:59:14+00:00 Jasons-MacBook-Pro.local#02 I: End test all test suites:0:eval_expr test suite:15:compare function fails.
